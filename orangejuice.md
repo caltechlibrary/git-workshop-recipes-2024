@@ -1,12 +1,10 @@
 # Ingredients
 - orange
 - lemon
-- salt
-- onion
+- sugar
 
 # Instructions
-1. Cut avocados.
-2. Dice onion.
-3. Squeeze lemon.
-4. Pinch salt.
+1. Squeeze orange.
+2. Squeeze lemon.
+3. Add sugar.
 
